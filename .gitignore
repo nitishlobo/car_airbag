@@ -1,0 +1,6 @@
+# Atmel studio files
+*.atsuo
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
